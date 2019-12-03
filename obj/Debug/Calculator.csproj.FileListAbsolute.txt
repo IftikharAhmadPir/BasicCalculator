@@ -1,0 +1,6 @@
+C:\Users\Iftikhar Ahmad Pir\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Iftikhar Ahmad Pir\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Iftikhar Ahmad Pir\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Iftikhar Ahmad Pir\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Iftikhar Ahmad Pir\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Iftikhar Ahmad Pir\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
