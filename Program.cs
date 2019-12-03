@@ -21,7 +21,7 @@ namespace Calculator
                     double FirstVal = Convert.ToDouble(Console.ReadLine());
                     Console.WriteLine("Enter the Second Value:");
                     double SecondVal = Convert.ToDouble(Console.ReadLine());
-                    Console.WriteLine("Enter the Operation (+ - * /):");
+                    Console.WriteLine("Enter the Operation (+ - * / %):");
                     var Operation = Console.ReadLine();
 
                     switch (Operation)
@@ -40,6 +40,10 @@ namespace Calculator
                             break;
                         case "/":
                             Console.WriteLine("Result:{0}", (FirstVal / SecondVal));
+                            Console.WriteLine("******************");
+                            break;
+                        case "%":
+                            Console.WriteLine("Result:{0}", (FirstVal % SecondVal));
                             Console.WriteLine("******************");
                             break;
                         default:
