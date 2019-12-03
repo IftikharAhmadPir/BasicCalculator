@@ -46,7 +46,7 @@ namespace Calculator
                             Console.WriteLine("Please Enter the Correct Operation (+,-,*,/)");
                             break;
                     }
-                    Console.WriteLine("Do you want to continue with another calculation(y/n):");
+                    Console.WriteLine("Do you want to continue with another calculation?(y/n):");
                     var decision = Console.ReadLine();
                     if (decision == "y" || decision == "Y")
                     {
@@ -64,7 +64,7 @@ namespace Calculator
             catch (Exception ex)
             {
                 Console.WriteLine("Exception Occured:{0}", ex.Message);
-                Console.WriteLine("Do you want to continue with another calculation(y/n):");
+                Console.WriteLine("Do you want to continue with another calculation?(y/n):");
                 var decision = Console.ReadLine();
                 if (decision == "y" || decision == "Y")
                 {
